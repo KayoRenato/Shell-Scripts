@@ -1,0 +1,3 @@
+* * * * * echo "$(date)" >> /Users/kayorenato/Documents/DSA/Shell_Script/logCron.txt
+Wed Jun  1 01:45:00 -03 2022
+Wed Jun  1 01:46:00 -03 2022
